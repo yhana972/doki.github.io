@@ -24,7 +24,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://yhana972.github.io/doki.github.io/doki",
+  "homepage": "https://yhana972.github.io/doki.github.io/",
   "browserslist": {
     "production": [
       ">0.2%",
